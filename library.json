@@ -1,0 +1,42 @@
+[
+  {
+    "title":"Python Crash Course",
+    "author":"Eric Matthes",
+    "publication_year":2019,
+    "genre":"Programming",
+    "read_status":false,
+    "added_data":"2025-03-11:36:40"
+  },
+  {
+  "title": "Automate the Boring Stuff with Python",
+  "author": "Al Sweigart",
+  "publication_year": 2015,
+  "genre": "Programming",
+  "read_status": true,
+  "added_data": "2025-03-12:15:22"
+},
+{
+  "title": "Fluent Python",
+  "author": "Luciano Ramalho",
+  "publication_year": 2015,
+  "genre": "Programming",
+  "read_status": false,
+  "added_data": "2025-03-13:09:10"
+},
+{
+  "title": "Data Science from Scratch",
+  "author": "Joel Grus",
+  "publication_year": 2019,
+  "genre": "Data Science",
+  "read_status": true,
+  "added_data": "2025-03-14:11:55:05"
+},
+{
+  "title": "Learning Python",
+  "author": "Mark Lutz",
+  "publication_year": 2013,
+  "genre": "Programming",
+  "read_status": false,
+  "added_data": "2025-03-15:14:48:30"
+}
+]
